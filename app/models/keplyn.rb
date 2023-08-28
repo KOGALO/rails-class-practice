@@ -1,0 +1,2 @@
+class Keplyn < ApplicationRecord
+end
